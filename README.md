@@ -12,7 +12,7 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **RPAG** - retirement planning SaaS platform for NFP Insurance (professionally)
+- 🔭 Currently working on **RPAG** - retirement planning SaaS platform for Great Gray Company Trust
 - 🛠️ Building something interesting in the workflow automation space (side project)
 - 💼 Leading engineering teams and driving technical innovation at scale
 - 🏥 Strong background in healthcare technology (EMR systems, HL7 standards, HIPAA compliance)
