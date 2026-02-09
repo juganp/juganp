@@ -111,11 +111,24 @@ Enterprise-grade application focusing on:
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Current Focus
 
-![Jugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juganp&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juganp&layout=compact&theme=radical)
+```typescript
+const jugan = {
+    location: "Bengaluru, India",
+    role: "Lead Engineer @ Wipro",
+    experience: "9+ years",
+    currentProject: "RPAG - Enterprise Software",
+    expertise: [
+        "Cloud-Native Architecture",
+        "Enterprise Application Development", 
+        "Team Leadership & Mentoring",
+        "Azure Cloud Services"
+    ],
+    learning: ["Micro-SaaS", "Advanced Observability", "System Design"],
+    openTo: ["Collaboration", "Innovative Projects", "Consulting"]
+};
+```
 
 ---
 
@@ -131,7 +144,8 @@ Feel free to reach out for collaborations or just a chat about technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juganpeeris/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juganpeeris@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kickresume.com/cv/juganpeeris/)
 
 ---
 
-⭐️ From [juganpeeris](https://github.com/juganp)
+💼 **Open to opportunities in enterprise software, cloud architecture, and micro-SaaS ventures**
