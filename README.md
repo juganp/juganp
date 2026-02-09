@@ -56,16 +56,19 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 ### **Lead Engineer** @ Wipro (Connected Services)
 *December 2025 - Present*
-- Leading engineering teams in developing enterprise-grade applications
-- Architecting cloud-native solutions with focus on scalability and security
-- Managing stakeholder relationships and translating business needs into technical solutions
+- Leading the RPAG project - enterprise retirement planning portal for NFP Insurance
+- Managing complete release lifecycle and scrum team operations
+- Driving technical architecture decisions and technology selection
 
 ### **Lead Engineer** @ HARMAN India (DTS)
 *April 2022 - December 2025 (3 years 9 months)*
-- Spearheaded backend development and Azure cloud service implementations
-- Led and mentored software engineering teams, conducting code reviews and fostering innovation
-- Drove optimization initiatives and implemented best practices across projects
-- Managed client engagements from requirements gathering to technical execution
+- Led development of RPAG, a sophisticated retirement plan advisory platform
+- Architected scalable solutions using ASP.NET MVC, AngularJS, and Azure services
+- Managed cross-functional scrum teams and code quality through comprehensive reviews
+- Implemented enterprise-grade observability with Serilog and Application Insights
+- Integrated Azure AD B2C authentication and containerized deployment architecture
+- Collaborated directly with NFP Insurance stakeholders for requirements and delivery
+- Prioritized work items and mentored team members through technical challenges
 
 ### **Development Team Lead** @ Latlon Technologies
 *September 2021 - April 2022*
@@ -103,12 +106,27 @@ GKM College of Engineering and Technology (2010-2014)
 
 ## 🌟 Featured Project
 
-### RPAG - Enterprise Software Solution
-Enterprise-grade application focusing on:
-- Robust logging infrastructure with Serilog and Application Insights
-- Containerized architecture for scalability
-- Azure AD B2C authentication integration
-- Cloud-native design patterns
+### RPAG - Retirement Plan Advisory Group Portal
+**Lead Engineer** | Enterprise SaaS Platform for Retirement Planning
+
+A comprehensive online portal for retirement consulting serving one of the largest independent retirement plan consulting firms in the U.S. The platform is built on a sophisticated investment scoring system that helps advisors and clients make informed retirement planning decisions.
+
+**Tech Stack:**
+- Backend: ASP.NET MVC, C#, ADO.NET
+- Frontend: AngularJS 1.5
+- Database: SQL Server 2016, SSRS
+- Cloud: Microsoft Azure, IIS Web
+- Client: NFP Insurance, Inc
+
+**Key Contributions:**
+- Leading the complete release lifecycle and managing scrum team operations
+- Architecting modules and selecting optimal technologies for scalability
+- Code review and quality assurance across all development stages
+- Prioritizing and distributing work items across team members
+- Collaborating with stakeholders and unblocking team challenges
+- Implementing robust logging infrastructure with Serilog and Application Insights
+- Integrating Azure AD B2C for secure authentication
+- Designing containerized architecture for improved deployment and scalability
 
 ---
 
@@ -120,13 +138,13 @@ const jugan = {
     role: "Lead Engineer @ Wipro",
     experience: "9+ years",
     currentWork: {
-        professional: "RPAG - Enterprise Software",
+        professional: "RPAG - Retirement Planning SaaS (NFP Insurance)",
         sideProject: "Workflow automation tool (stealth mode)"
     },
     expertise: [
         "Cloud-Native Architecture",
         "Enterprise Application Development", 
-        "Team Leadership & Mentoring",
+        "Team Leadership & Scrum Management",
         "Azure Cloud Services"
     ],
     learning: ["Micro-SaaS", "Advanced Observability", "System Design"],
