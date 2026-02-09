@@ -6,13 +6,14 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 📍 Bengaluru, Karnataka, India  
 📧 juganpeeris@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/juganpeeris/) | [Portfolio](https://www.kickresume.com/cv/juganpeeris/)
+🔗 [LinkedIn](https://www.linkedin.com/in/juganpeeris/)
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **RPAG** - an enterprise software solution
+- 🔭 Currently working on **RPAG** - an enterprise software solution (professionally)
+- 🛠️ Building something interesting in the workflow automation space (side project)
 - 💼 Leading engineering teams and driving technical innovation at scale
 - 🌱 Focused on cloud-native architectures, observability, and authentication systems
 - 👥 Passionate about mentoring developers and building collaborative teams
@@ -118,7 +119,10 @@ const jugan = {
     location: "Bengaluru, India",
     role: "Lead Engineer @ Wipro",
     experience: "9+ years",
-    currentProject: "RPAG - Enterprise Software",
+    currentWork: {
+        professional: "RPAG - Enterprise Software",
+        sideProject: "Workflow automation tool (stealth mode)"
+    },
     expertise: [
         "Cloud-Native Architecture",
         "Enterprise Application Development", 
@@ -144,7 +148,6 @@ Feel free to reach out for collaborations or just a chat about technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juganpeeris/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juganpeeris@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kickresume.com/cv/juganpeeris/)
 
 ---
 
