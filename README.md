@@ -112,21 +112,17 @@ GKM College of Engineering and Technology (2010-2014)
 A comprehensive online portal for retirement consulting serving one of the largest independent retirement plan consulting firms in the U.S. The platform is built on a sophisticated investment scoring system that helps advisors and clients make informed retirement planning decisions.
 
 **Tech Stack:**
-- Backend: ASP.NET MVC, C#, ADO.NET
-- Frontend: AngularJS 1.5
+- Backend: ASP.NET MVC, C#, ADO.NET, .Net 8
+- Frontend: AngularJS 1.5, Angular 20
 - Database: SQL Server 2016, SSRS
 - Cloud: Microsoft Azure, IIS Web
-- Client: NFP Insurance, Inc
+- Client: Great Gray Trust Company (NFP Insurance, Inc)
 
 **Key Contributions:**
 - Leading the complete release lifecycle and managing scrum team operations
-- Architecting modules and selecting optimal technologies for scalability
 - Code review and quality assurance across all development stages
 - Prioritizing and distributing work items across team members
 - Collaborating with stakeholders and unblocking team challenges
-- Implementing robust logging infrastructure with Serilog and Application Insights
-- Integrating Azure AD B2C for secure authentication
-- Designing containerized architecture for improved deployment and scalability
 
 ---
 
