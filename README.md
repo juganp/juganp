@@ -67,12 +67,8 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 ### **Lead Engineer** @ HARMAN India (DTS)
 *April 2022 - December 2025 (3 years 9 months)*
-- Led development of RPAG, a sophisticated retirement plan advisory platform
-- Architected scalable solutions using ASP.NET MVC, AngularJS, and Azure services
 - Managed cross-functional scrum teams and code quality through comprehensive reviews
-- Implemented enterprise-grade observability with Serilog and Application Insights
-- Integrated Azure AD B2C authentication and containerized deployment architecture
-- Collaborated directly with NFP Insurance stakeholders for requirements and delivery
+- Collaborated directly with stakeholders for requirements and delivery
 - Prioritized work items and mentored team members through technical challenges
 
 ### **Development Team Lead** @ Latlon Technologies
