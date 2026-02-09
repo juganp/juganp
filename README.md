@@ -12,9 +12,10 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **RPAG** - an enterprise software solution (professionally)
+- 🔭 Currently working on **RPAG** - retirement planning SaaS platform for NFP Insurance (professionally)
 - 🛠️ Building something interesting in the workflow automation space (side project)
 - 💼 Leading engineering teams and driving technical innovation at scale
+- 🏥 Strong background in healthcare technology (EMR systems, HL7 standards, HIPAA compliance)
 - 🌱 Focused on cloud-native architectures, observability, and authentication systems
 - 👥 Passionate about mentoring developers and building collaborative teams
 - 💡 Exploring opportunities in the micro-SaaS space
@@ -32,8 +33,9 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 ### Frameworks & Technologies
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -43,12 +45,15 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 ### Databases
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Practices
 - **Observability**: Serilog, Application Insights
-- **Authentication**: Azure AD B2C, OAuth, JWT
+- **Authentication**: Azure AD B2C, OAuth, JWT, Single Sign-On
 - **Architecture**: Microservices, Cloud-Native, Containerization
-- **Healthcare**: HL7 Standards Integration
+- **Healthcare**: HL7 Standards, HIPAA Compliance, EMR Systems
+- **Real-time**: WebRTC (Video Consultations)
+- **Workflow**: BPM, Automated Notifications
 
 ---
 
@@ -112,17 +117,63 @@ GKM College of Engineering and Technology (2010-2014)
 A comprehensive online portal for retirement consulting serving one of the largest independent retirement plan consulting firms in the U.S. The platform is built on a sophisticated investment scoring system that helps advisors and clients make informed retirement planning decisions.
 
 **Tech Stack:**
-- Backend: ASP.NET MVC, C#, ADO.NET, .Net 8
-- Frontend: AngularJS 1.5, Angular 20
+- Backend: ASP.NET MVC, C#, ADO.NET
+- Frontend: AngularJS 1.5
 - Database: SQL Server 2016, SSRS
 - Cloud: Microsoft Azure, IIS Web
-- Client: Great Gray Trust Company (NFP Insurance, Inc)
+- Client: NFP Insurance, Inc
 
 **Key Contributions:**
 - Leading the complete release lifecycle and managing scrum team operations
+- Architecting modules and selecting optimal technologies for scalability
 - Code review and quality assurance across all development stages
 - Prioritizing and distributing work items across team members
 - Collaborating with stakeholders and unblocking team challenges
+- Implementing robust logging infrastructure with Serilog and Application Insights
+- Integrating Azure AD B2C for secure authentication
+- Designing containerized architecture for improved deployment and scalability
+
+---
+
+## 🚀 Notable Projects
+
+### Healthcare Solutions
+
+**Electronic Medical Record (EMR) System** @ Latlon Technologies
+- Comprehensive healthcare platform with digitized patient management
+- Video consultation capabilities using WebRTC technology
+- HL7 standards compliance for interoperability
+- Tech: Node.js, Angular, .NET Core, WebRTC
+
+**Dental Records Pro** @ Healiton Healthcare Technologies
+- Full-featured dental EMR software with HIPAA compliance
+- Patient record management, scheduling, and billing integration
+- Tech: ASP.NET MVC, .NET Framework, MySQL
+
+**SmartSlot Health** @ Latlon Technologies
+- Intelligent appointment system with real-time notifications
+- Automated patient alerts for cancellation-based open slots
+- Third-party insurance verification integration
+- Tech: ReactJS, Node.js, AWS
+
+### Enterprise & Business Applications
+
+**Business Process Management (BPM) System** @ Latlon Technologies
+- Automated approval workflows for housing and extension financing
+- Real-time tracking for contractors and automated notifications
+- Reduced approval time and minimized human error
+- Tech: .NET Framework, MVC, C#, Microsoft SQL Server
+
+**PTP Cloud Single Sign-On** @ Latlon Technologies
+- Centralized authentication system using Azure AD
+- Unified access across five separate applications
+- Enhanced security and improved user experience
+- Tech: Microsoft Azure
+
+**Outlook Add-On** @ Latlon Technologies
+- Email organization and consolidation by client and year
+- Automated nightly operations for email management
+- Tech: .NET Framework, Microsoft SQL Server
 
 ---
 
