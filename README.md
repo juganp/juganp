@@ -61,13 +61,13 @@ I'm a seasoned software engineer with 9+ years of experience building robust, sc
 
 ### **Lead Engineer** @ Wipro (Connected Services)
 *December 2025 - Present*
-- Leading the RPAG project - enterprise retirement planning portal for NFP Insurance
+- Leading a development team in the RPAG project - enterprise retirement planning portal for Great Gray Trust Company
 - Managing complete release lifecycle and scrum team operations
 - Driving technical architecture decisions and technology selection
 
 ### **Lead Engineer** @ HARMAN India (DTS)
 *April 2022 - December 2025 (3 years 9 months)*
-- Managed cross-functional scrum teams and code quality through comprehensive reviews
+- Managed development team and code quality through comprehensive reviews
 - Collaborated directly with stakeholders for requirements and delivery
 - Prioritized work items and mentored team members through technical challenges
 
